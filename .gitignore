@@ -1,2 +1,7 @@
 input*.txt
 .vscode
+
+*.exe
+*.exe~
+*.dll
+*.so
